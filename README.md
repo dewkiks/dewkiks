@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-<!--     <img align="center" width="900" src="https://raw.githubusercontent.com/buttercrab/buttercrab/master/github-metrics.svg" alt="profile image" /> -->
+    <img align="center" width="900" src="https://raw.githubusercontent.com/dewkiks/dewkiks/main/github-metrics.svg" alt="GitHub Metrics" />
     </td>
     <td>
 
