@@ -6,11 +6,11 @@
     </td>
     <td>
 
-- 🔭 I’m currently working on: **Creating AI/ML Projects & Studying**
+-  I’m currently working on: **Creating AI/ML Projects & Studying**
 
-- 🌱 I’m currently learning: **Python, LangGraph**
+-  I’m currently learning: **Python, LangGraph**
 
-- 📫 How to reach me: **ansil551210@gmail.com**
+-  How to reach me: **ansil551210@gmail.com**
 
     </td>
   </tr>
