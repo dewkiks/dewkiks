@@ -1,16 +1,19 @@
-## Hi there 👋
+<h2 align="center">Hi 👋, I'm Anzil</h2>
+<h4 align="center">A student from South Korea</h4>
 
-<!--
-**dewkiks/dewkiks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td>
+<!--     <img align="center" width="900" src="https://raw.githubusercontent.com/buttercrab/buttercrab/master/github-metrics.svg" alt="profile image" /> -->
+    </td>
+    <td>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: **Creating AI/ML Projects & Studying**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning: **Python, LangGraph**
+
+- 📫 How to reach me: **ansil551210@gmail.com**
+
+    </td>
+  </tr>
+<br/>
