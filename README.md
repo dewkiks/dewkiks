@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-    <img align="center" width="400" src="https://raw.githubusercontent.com/dewkiks/dewkiks/main/github-metrics.svg" alt="GitHub Metrics" />
+    <img align="center" width="500" src="https://raw.githubusercontent.com/dewkiks/dewkiks/main/github-metrics.svg" alt="GitHub Metrics" />
     </td>
     <td>
 
